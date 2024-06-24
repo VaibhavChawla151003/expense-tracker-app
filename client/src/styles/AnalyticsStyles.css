@@ -1,0 +1,26 @@
+.graph{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    gap: 2rem;
+}
+.graph-div{
+    width: 100%;
+}
+
+.per{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    gap: 2rem;
+}
+.per div{
+    width: 100%;
+}
+
+.cont{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}

@@ -1,0 +1,53 @@
+*{
+  padding: 0;
+  margin:  0;
+  box-sizing: border-box;
+}
+
+.content{
+  height: 100vh;
+}
+
+.navbar{
+  background-color: rgb(234, 108, 108)!important;
+}
+
+.register-page{
+  background-image: url('https://assets.gqindia.com/photos/608c135f6e6a489a62cd254d/16:9/w_1920,c_limit/Apps%20for%20finance%20management.jpg');
+    background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+
+/* transaction page */
+
+.filters{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  box-shadow: 0 0 3px gray;
+}
+
+/* antd icons */
+
+.switch-icons{
+  border: 1px solid rgba(0,0,0,0.677);
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.anticon svg{
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active-icon{
+  color:black;
+}
+
+.inactive-icon{
+  color:gray;
+}

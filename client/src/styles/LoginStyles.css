@@ -1,0 +1,29 @@
+
+
+
+.form{
+    background-color: rgba(237, 215, 215);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    border-radius: 12px;
+  }
+
+.te{
+    margin: 20px;
+    color:black;
+}
+
+.te:hover{
+    color:rgb(234, 108, 108);
+}
+
+
+.bt{
+    background-color:black;
+    border: 1px solid black;
+}
+
+.bt:hover{
+    background-color:rgb(234, 108, 108);
+    border: 1px solid black;
+}
